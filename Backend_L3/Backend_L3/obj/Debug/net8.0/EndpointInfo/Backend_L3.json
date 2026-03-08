@@ -1,0 +1,118 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Backend_L3",
+    "version": "1.0"
+  },
+  "paths": {
+    "/html": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/text": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/json": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/xml": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/csv": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/binary": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/image": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/pdf": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/redirect": {
+      "get": {
+        "tags": [
+          "Backend_L3"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
