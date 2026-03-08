@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\backend_l4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\backend_l4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|c:\\users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\backend_l4\\backend_l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84916C10-7759-4759-B21F-7B5931AD293E}|Backend_L4\\Backend_L4.csproj|solutionrelative:backend_l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Backend_L4\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "Backend_L4\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:59:46.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Backend_L4\\Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "Backend_L4\\Dtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:03:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductControllers.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Controllers\\ProductControllers.cs",
+              "RelativeDocumentMoniker": "Backend_L4\\Controllers\\ProductControllers.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Controllers\\ProductControllers.cs*",
+              "RelativeToolTip": "Backend_L4\\Controllers\\ProductControllers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:57:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Backend_L4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Models\\Product.cs",
+              "RelativeToolTip": "Backend_L4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:56:22.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backend_L4",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Backend_L4.csproj",
+              "RelativeDocumentMoniker": "Backend_L4\\Backend_L4.csproj",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Backend_L4.csproj*",
+              "RelativeToolTip": "Backend_L4\\Backend_L4.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T18:55:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_L4\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0430\u0434\u043B\u043D\u043A\u043E\\source\\repos\\Backend_L4\\Backend_L4\\Program.cs",
+              "RelativeToolTip": "Backend_L4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:54:25.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
